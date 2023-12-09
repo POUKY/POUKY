@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @POUKY
-- 👀 I’m interested in? Game disign, Making my own game with Godot 4.0(but for that i must wait, so in the mean time i lern to code finally!), 
+- 👀 I’m interested in? Game disign, Making my own game with Godot 4, 
 - 📫 How to reach me? Ther are many ways but YT and Twitch are the fastest way.
 
 <!---
